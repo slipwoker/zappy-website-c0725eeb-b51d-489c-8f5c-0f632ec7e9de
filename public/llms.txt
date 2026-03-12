@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אופניבוני - חנות אופניים חשמליים מקצועית עם מגוון דגמים איכוtiים למשפחות ויחידים. שירות מעולה, מחירים הוגנים וייעוץ אישי. בואו לגלות את האופניים המושלמים עבורכם!
+
+### שירותים ותחזוקה
+https://example.com/services
+שירותי תחזוקה ותיקון מקצועיים לאופניים חשמליים. צוות מומחים, חלפים מקוריים ואחריות מלאה. קבעו תור לבדיקה חינם ושמרו על האופניים שלכם במצב מעולה לאורך זמן!
+
+### כיצד לבחור
+https://example.com/choose
+איך בוחרים אופניים חשמליים? כל מה שצריך לדעת על טווח נסיעה, כוח מנוע, סוללה ומחיר. המדריך המקיף שלנו יעזור לכם למצוא את הדגם האידיאלי למשפחה או לעבודה!
+
+### צור קשר
+https://example.com/contact
+רוצים ייעוץ מקצועי לפני הקניה? צרו קשר עם אופניבוני לשאלות, הזמנות ומבצעים מיוחדים. נשמח לעזור לכם למצוא את האופניים החשמליים המתאימים ביותר. התקשרו עכשיו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - אופניבוני
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אופניבוני
+
+### Category
+https://example.com/category/:slug
+מוצרים - אופניבוני
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
